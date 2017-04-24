@@ -1,0 +1,7 @@
+node_modules/
+dist/
+playground/**/*.*
+*.log*
+npm-debug.log
+.env
+*.stackdump
